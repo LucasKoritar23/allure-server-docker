@@ -1,0 +1,6 @@
+[2022-09-14T14:11:07.879Z] Data:  {
+  firstName: [32m'Opal'[39m,
+  lastName: [32m'Kreiger'[39m,
+  email: [32m'opal_kreiger@yahoo.com'[39m,
+  password: [32m'SJp3krnM'[39m
+}

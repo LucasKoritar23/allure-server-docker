@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 14 14:10:53 UTC 2022","Wed Sep 14 14:11:09 UTC 2022","15784","","","Shopping Cart Controller @makeShoppingCart @makeOrders @purchaseFlow","","","Successful creation of ShoppingCart Empty @postShoppingCartEmpty",""

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "2ff970411ea58bd1",
+  "name" : "successful put address @putAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211597363,
+    "stop" : 1657211599204,
+    "duration" : 1841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b7e5e160da6d6f2",
+  "name" : "Successful post address @postAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211595321,
+    "stop" : 1657211597362,
+    "duration" : 2041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a654a4498d85840e",
+  "name" : "Successful get address @getAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211601040,
+    "stop" : 1657211602853,
+    "duration" : 1813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a198497c4cbaf336",
+  "name" : "successful delete address @deleteAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211599205,
+    "stop" : 1657211601039,
+    "duration" : 1834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

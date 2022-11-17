@@ -1,0 +1,12 @@
+[2022-07-07T16:33:18.305Z] {
+  address: 'Alexandro Path',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade editado',
+  zipCode: '04794-000',
+  number: '4094',
+  city: 'Tuckahoe',
+  state: 'West Virginia',
+  country: 'Ethiopia',
+  addressType: 'WORK',
+  id: '30573434-6111-4474-a48e-551a87249e41'
+}

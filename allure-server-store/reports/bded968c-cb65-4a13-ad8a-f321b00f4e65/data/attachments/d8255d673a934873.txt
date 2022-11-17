@@ -1,0 +1,11 @@
+[2022-07-07T16:38:02.487Z] {
+  address: 'Rae Streets',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '03259-000',
+  number: '4952',
+  city: 'Newark',
+  state: 'New Hampshire',
+  country: 'Cocos (Keeling) Islands',
+  addressType: 'WORK'
+}

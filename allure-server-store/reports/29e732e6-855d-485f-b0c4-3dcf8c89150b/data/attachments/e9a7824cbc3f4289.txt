@@ -1,0 +1,1 @@
+[2022-07-07T16:41:21.000Z] Contract name to be validated:  /Users/lucaskoritar/Documents/KoritTech/Projetos/smart-place-qa-e2e/tests/api/smartPlaceOrder/addressController/schemas/putAddressesSchema.json

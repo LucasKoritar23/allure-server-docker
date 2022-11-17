@@ -1,0 +1,11 @@
+[2022-07-07T16:33:19.207Z] {
+  address: 'Kautzer Drive',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '70715-900',
+  number: '69804',
+  city: 'Madera',
+  state: 'Virginia',
+  country: 'Tuvalu',
+  addressType: 'WORK'
+}

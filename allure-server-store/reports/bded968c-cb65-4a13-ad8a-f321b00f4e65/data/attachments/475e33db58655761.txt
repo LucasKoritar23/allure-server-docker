@@ -1,0 +1,34 @@
+[2022-07-07T16:38:04.312Z] {
+  content: [
+    {
+      id: 'ec4384dc-8445-4365-b21b-b1d4afeb8bcf',
+      address: 'Rae Streets',
+      neighborhood: 'Guarulhos',
+      complement: 'Ao Lado da Qualidade',
+      zipCode: '03259-000',
+      number: '4952',
+      city: 'Newark',
+      state: 'New Hampshire',
+      country: 'Cocos (Keeling) Islands',
+      addressType: 'WORK',
+      links: [Array]
+    }
+  ],
+  pageable: {
+    sort: { sorted: false, unsorted: true, empty: true },
+    pageNumber: 0,
+    pageSize: 20,
+    offset: 0,
+    paged: true,
+    unpaged: false
+  },
+  last: true,
+  totalElements: 1,
+  totalPages: 1,
+  sort: { sorted: false, unsorted: true, empty: true },
+  first: true,
+  numberOfElements: 1,
+  size: 20,
+  number: 0,
+  empty: false
+}

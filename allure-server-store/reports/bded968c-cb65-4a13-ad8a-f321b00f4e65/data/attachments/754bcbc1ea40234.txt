@@ -1,0 +1,11 @@
+[2022-07-07T16:38:00.632Z] {
+  address: 'Reichert Wells',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '04794-000',
+  number: '9658',
+  city: 'Hendersonville',
+  state: 'Massachusetts',
+  country: 'Morocco',
+  addressType: 'WORK'
+}

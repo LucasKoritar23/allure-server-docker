@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toEqual(expected) // deep equality\n\nExpected: 400\nReceived: 200",
+      "children" : [ {
+        "name" : "Successful post address @postAddressController @crudAddresses",
+        "uid" : "7cff28411930b5cc",
+        "parentUid" : "3e6aa098456aebf83ced56c3c797b031",
+        "status" : "failed",
+        "time" : {
+          "start" : 1657212075654,
+          "stop" : 1657212077651,
+          "duration" : 1997
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e6aa098456aebf83ced56c3c797b031"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,17 @@
+[2022-07-07T16:37:59.742Z] {
+  id: '0483c3a2-b2d0-47ab-b014-b94241538a6d',
+  address: 'Dorcas Lights',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '70715-900',
+  number: '25325',
+  city: 'Modesto',
+  state: 'North Dakota',
+  country: 'Barbados',
+  addressType: 'WORK',
+  _links: {
+    self: {
+      href: 'https://0.0.0.0:8443/addresses/0483c3a2-b2d0-47ab-b014-b94241538a6d'
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html",
+  "reportName" : "Azure",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html",
+  "reportName" : "Azure",
+  "data" : { }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html",
+  "reportName" : "Azure",
+  "data" : { }
+} ]

@@ -1,0 +1,11 @@
+[2022-07-07T16:41:16.531Z] {
+  address: 'Torphy Burg',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '07097-380',
+  number: '924',
+  city: 'Elkhart',
+  state: 'Utah',
+  country: 'Congo',
+  addressType: 'WORK'
+}

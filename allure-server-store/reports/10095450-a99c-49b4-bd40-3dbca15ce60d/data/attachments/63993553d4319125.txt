@@ -1,0 +1,6 @@
+[2022-09-14T14:19:18.205Z] Data:  {
+  firstName: [32m'Seth'[39m,
+  lastName: [32m'Smitham'[39m,
+  email: [32m'seth.smitham49@yahoo.com'[39m,
+  password: [32m'AEPFafaZ'[39m
+}

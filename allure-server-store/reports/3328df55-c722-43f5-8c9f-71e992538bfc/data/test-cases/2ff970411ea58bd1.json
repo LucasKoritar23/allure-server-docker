@@ -1,0 +1,153 @@
+{
+  "uid" : "2ff970411ea58bd1",
+  "name" : "successful put address @putAddressController @crudAddresses",
+  "fullName" : "successful put address @putAddressController @crudAddresses",
+  "historyId" : " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders successful put address @putAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211597363,
+    "stop" : 1657211599204,
+    "duration" : 1841
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46e0a3b48f1c5c78",
+      "name" : "stdout",
+      "source" : "46e0a3b48f1c5c78.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "cabfa6575c1090bb",
+      "name" : "stdout",
+      "source" : "cabfa6575c1090bb.txt",
+      "type" : "text/plain",
+      "size" : 63
+    }, {
+      "uid" : "902085046ab9ab57",
+      "name" : "stdout",
+      "source" : "902085046ab9ab57.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "31561a6599c67e85",
+      "name" : "stdout",
+      "source" : "31561a6599c67e85.txt",
+      "type" : "text/plain",
+      "size" : 260
+    }, {
+      "uid" : "e17165e7f63713e5",
+      "name" : "stdout",
+      "source" : "e17165e7f63713e5.txt",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "cfe7efc1b7db3ff4",
+      "name" : "stdout",
+      "source" : "cfe7efc1b7db3ff4.txt",
+      "type" : "text/plain",
+      "size" : 423
+    }, {
+      "uid" : "8da23759c0626b1b",
+      "name" : "stdout",
+      "source" : "8da23759c0626b1b.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "b7a891f3a2d131e5",
+      "name" : "stdout",
+      "source" : "b7a891f3a2d131e5.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "ca96f02e7d70c9ed",
+      "name" : "stdout",
+      "source" : "ca96f02e7d70c9ed.txt",
+      "type" : "text/plain",
+      "size" : 63
+    }, {
+      "uid" : "9a19176a2ebcba1c",
+      "name" : "stdout",
+      "source" : "9a19176a2ebcba1c.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "eae6f9dff1990506",
+      "name" : "stdout",
+      "source" : "eae6f9dff1990506.txt",
+      "type" : "text/plain",
+      "size" : 314
+    }, {
+      "uid" : "d787b6563a780c4b",
+      "name" : "stdout",
+      "source" : "d787b6563a780c4b.txt",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "56d58546d6ff26c5",
+      "name" : "stdout",
+      "source" : "56d58546d6ff26c5.txt",
+      "type" : "text/plain",
+      "size" : 431
+    }, {
+      "uid" : "ef07dee1743878c7",
+      "name" : "stdout",
+      "source" : "ef07dee1743878c7.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "e490015162deefb8",
+      "name" : "stdout",
+      "source" : "e490015162deefb8.txt",
+      "type" : "text/plain",
+      "size" : 60
+    }, {
+      "uid" : "8a79cf433d981a3",
+      "name" : "stdout",
+      "source" : "8a79cf433d981a3.txt",
+      "type" : "text/plain",
+      "size" : 203
+    }, {
+      "uid" : "db3ea1294f5e05e",
+      "name" : "stdout",
+      "source" : "db3ea1294f5e05e.txt",
+      "type" : "text/plain",
+      "size" : 59
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 17
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "subSuite",
+    "value" : "Addresses Controller @makeAddressesController @makeOrders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ff970411ea58bd1.json",
+  "parameterValues" : [ ]
+}

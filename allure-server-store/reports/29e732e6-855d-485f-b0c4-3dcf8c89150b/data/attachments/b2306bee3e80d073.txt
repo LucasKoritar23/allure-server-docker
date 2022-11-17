@@ -1,0 +1,17 @@
+[2022-07-07T16:41:23.751Z] {
+  id: '637a22c4-ce7d-4852-8f4f-36f9805ae5d6',
+  address: 'Crist Plain',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '03259-000',
+  number: '904',
+  city: 'Oro Valley',
+  state: 'Alaska',
+  country: 'Pitcairn Islands',
+  addressType: 'WORK',
+  _links: {
+    self: {
+      href: 'https://0.0.0.0:8443/addresses/637a22c4-ce7d-4852-8f4f-36f9805ae5d6'
+    }
+  }
+}

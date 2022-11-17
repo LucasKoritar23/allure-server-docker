@@ -1,0 +1,141 @@
+{
+  "uid" : "a654a4498d85840e",
+  "name" : "Successful get address @getAddressController @crudAddresses",
+  "fullName" : "Successful get address @getAddressController @crudAddresses",
+  "historyId" : " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders Successful get address @getAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657211601040,
+    "stop" : 1657211602853,
+    "duration" : 1813
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25d153b830bbc580",
+      "name" : "stdout",
+      "source" : "25d153b830bbc580.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "9a9b7bde944eccc4",
+      "name" : "stdout",
+      "source" : "9a9b7bde944eccc4.txt",
+      "type" : "text/plain",
+      "size" : 63
+    }, {
+      "uid" : "f9ca2d3be690af99",
+      "name" : "stdout",
+      "source" : "f9ca2d3be690af99.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "3f11f054f1f0682a",
+      "name" : "stdout",
+      "source" : "3f11f054f1f0682a.txt",
+      "type" : "text/plain",
+      "size" : 253
+    }, {
+      "uid" : "3ad9cc093822db33",
+      "name" : "stdout",
+      "source" : "3ad9cc093822db33.txt",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "1de39b0665d54889",
+      "name" : "stdout",
+      "source" : "1de39b0665d54889.txt",
+      "type" : "text/plain",
+      "size" : 416
+    }, {
+      "uid" : "bd1173544084ed8",
+      "name" : "stdout",
+      "source" : "bd1173544084ed8.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "e61cf7fdf8ce2913",
+      "name" : "stdout",
+      "source" : "e61cf7fdf8ce2913.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "b472c94a43399085",
+      "name" : "stdout",
+      "source" : "b472c94a43399085.txt",
+      "type" : "text/plain",
+      "size" : 103
+    }, {
+      "uid" : "2add1a2a117f8721",
+      "name" : "stdout",
+      "source" : "2add1a2a117f8721.txt",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "5d2205550c2a1de5",
+      "name" : "stdout",
+      "source" : "5d2205550c2a1de5.txt",
+      "type" : "text/plain",
+      "size" : 741
+    }, {
+      "uid" : "e31d1063abcf679d",
+      "name" : "stdout",
+      "source" : "e31d1063abcf679d.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "fa205f4f04077133",
+      "name" : "stdout",
+      "source" : "fa205f4f04077133.txt",
+      "type" : "text/plain",
+      "size" : 60
+    }, {
+      "uid" : "f69af435f7a17ee1",
+      "name" : "stdout",
+      "source" : "f69af435f7a17ee1.txt",
+      "type" : "text/plain",
+      "size" : 203
+    }, {
+      "uid" : "2aaac06d98ca1de3",
+      "name" : "stdout",
+      "source" : "2aaac06d98ca1de3.txt",
+      "type" : "text/plain",
+      "size" : 59
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 15
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "subSuite",
+    "value" : "Addresses Controller @makeAddressesController @makeOrders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a654a4498d85840e.json",
+  "parameterValues" : [ ]
+}

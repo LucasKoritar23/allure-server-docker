@@ -1,0 +1,8 @@
+[ {
+  "name" : "Azure",
+  "type" : "CI",
+  "buildOrder" : 3,
+  "buildName" : "#3",
+  "reportName" : "Azure",
+  "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html"
+} ]

@@ -1,0 +1,17 @@
+[2022-07-07T16:41:21.953Z] {
+  id: 'a1cb2a1d-8f99-44d6-8823-f7a75dd32395',
+  address: 'Lisandro Stravenue',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '70715-900',
+  number: '35772',
+  city: 'Tacoma',
+  state: 'Iowa',
+  country: 'Jordan',
+  addressType: 'WORK',
+  _links: {
+    self: {
+      href: 'https://0.0.0.0:8443/addresses/a1cb2a1d-8f99-44d6-8823-f7a75dd32395'
+    }
+  }
+}

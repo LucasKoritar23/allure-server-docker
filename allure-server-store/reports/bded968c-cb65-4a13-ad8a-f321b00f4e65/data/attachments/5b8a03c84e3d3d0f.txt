@@ -1,0 +1,11 @@
+[2022-07-07T16:37:57.568Z] {
+  address: 'Cara Rapids',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '70715-900',
+  number: '9957',
+  city: 'Germantown',
+  state: 'North Dakota',
+  country: 'Eritrea',
+  addressType: 'WORK'
+}

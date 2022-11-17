@@ -1,0 +1,130 @@
+{
+  "uid" : "7cff28411930b5cc",
+  "name" : "Successful post address @postAddressController @crudAddresses",
+  "fullName" : "Successful post address @postAddressController @crudAddresses",
+  "historyId" : " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders Successful post address @postAddressController @crudAddresses",
+  "time" : {
+    "start" : 1657212075654,
+    "stop" : 1657212077651,
+    "duration" : 1997
+  },
+  "status" : "failed",
+  "statusMessage" : "expect(received).toEqual(expected) // deep equality\n\nExpected: 400\nReceived: 200",
+  "statusTrace" : "\n    at AddressControllerClient.postAddresses (/Users/lucaskoritar/Documents/KoritTech/Projetos/smart-place-qa-e2e/tests/api/smartPlaceOrder/addressController/clients/addressControllerClient.js:37:37)\n    at /Users/lucaskoritar/Documents/KoritTech/Projetos/smart-place-qa-e2e/tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js:18:36",
+  "flaky" : false,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toEqual(expected) // deep equality\n\nExpected: 400\nReceived: 200",
+    "statusTrace" : "\n    at AddressControllerClient.postAddresses (/Users/lucaskoritar/Documents/KoritTech/Projetos/smart-place-qa-e2e/tests/api/smartPlaceOrder/addressController/clients/addressControllerClient.js:37:37)\n    at /Users/lucaskoritar/Documents/KoritTech/Projetos/smart-place-qa-e2e/tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js:18:36",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6d2a33ecd415be7d",
+      "name" : "stdout",
+      "source" : "6d2a33ecd415be7d.txt",
+      "type" : "text/plain",
+      "size" : 44
+    }, {
+      "uid" : "3f2e09f5963cfaa3",
+      "name" : "stdout",
+      "source" : "3f2e09f5963cfaa3.txt",
+      "type" : "text/plain",
+      "size" : 63
+    }, {
+      "uid" : "546bae64b0b8b89",
+      "name" : "stdout",
+      "source" : "546bae64b0b8b89.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "b049c77f1be97cbb",
+      "name" : "stdout",
+      "source" : "b049c77f1be97cbb.txt",
+      "type" : "text/plain",
+      "size" : 243
+    }, {
+      "uid" : "ff4925c56db52b90",
+      "name" : "stdout",
+      "source" : "ff4925c56db52b90.txt",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "10ee034a8334ab28",
+      "name" : "stdout",
+      "source" : "10ee034a8334ab28.txt",
+      "type" : "text/plain",
+      "size" : 406
+    }, {
+      "uid" : "b6971a222f15b2de",
+      "name" : "stdout",
+      "source" : "b6971a222f15b2de.txt",
+      "type" : "text/plain",
+      "size" : 44
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 7
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "subSuite",
+    "value" : "Addresses Controller @makeAddressesController @makeOrders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "29b0f209a57a6e8d",
+        "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html#testresult/29b0f209a57a6e8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657211876703,
+          "stop" : 1657211878709,
+          "duration" : 2006
+        }
+      }, {
+        "uid" : "9b7e5e160da6d6f2",
+        "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html#testresult/9b7e5e160da6d6f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657211595321,
+          "stop" : 1657211597362,
+          "duration" : 2041
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7cff28411930b5cc.json",
+  "parameterValues" : [ ]
+}

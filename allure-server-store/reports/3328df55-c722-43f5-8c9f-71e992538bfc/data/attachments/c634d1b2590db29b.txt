@@ -1,0 +1,17 @@
+[2022-07-07T16:33:17.340Z] {
+  id: '82c88e75-8926-4f8d-be4b-90dddcfaf898',
+  address: 'Opal Ridges',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '07097-380',
+  number: '80743',
+  city: 'Catalina Foothills',
+  state: 'North Carolina',
+  country: 'Wallis and Futuna',
+  addressType: 'WORK',
+  _links: {
+    self: {
+      href: 'https://0.0.0.0:8443/addresses/82c88e75-8926-4f8d-be4b-90dddcfaf898'
+    }
+  }
+}

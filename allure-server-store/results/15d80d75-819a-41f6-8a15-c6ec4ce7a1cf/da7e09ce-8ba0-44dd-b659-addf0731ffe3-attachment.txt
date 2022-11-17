@@ -1,0 +1,1 @@
+[2022-09-14T14:11:08.722Z] Uri: https://uat-apisix.smartplace.cloud/v1/customer/shopping-cart

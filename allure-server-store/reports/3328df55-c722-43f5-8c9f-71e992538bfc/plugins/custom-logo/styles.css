@@ -1,0 +1,32 @@
+.side-nav__brand {
+  background: url('logo_gw_negativo.svg') no-repeat left center !important;
+  margin-left: 10px;
+}
+
+.side-nav__brand-text {
+  visibility: hidden;
+  position: relative;
+}
+
+.side-nav__brand-text:after {
+  visibility: visible;
+  position: absolute;
+  font-size: 14px;
+  top: 0;
+  left: 35px;
+  content: "SmartPlace";
+  /* font-family: 'Montserrat'; */
+}
+
+.widget__title {
+  /* font-family: 'Montserrat'; */
+}
+
+.side-nav {
+  /* font-family: 'Montserrat'; */
+}
+
+/* .side-nav {
+  background-color: #652d90;
+  border-right: 4px solid #f05a28;
+} */

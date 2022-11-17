@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Addresses Controller @makeAddressesController @makeOrders",
+    "children" : [ {
+      "name" : "Successful post address @postAddressController @crudAddresses",
+      "uid" : "9b7e5e160da6d6f2",
+      "parentUid" : "d2d9dfef6c4cc59b567fc46058ba1cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211595321,
+        "stop" : 1657211597362,
+        "duration" : 2041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "successful put address @putAddressController @crudAddresses",
+      "uid" : "2ff970411ea58bd1",
+      "parentUid" : "d2d9dfef6c4cc59b567fc46058ba1cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211597363,
+        "stop" : 1657211599204,
+        "duration" : 1841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "successful delete address @deleteAddressController @crudAddresses",
+      "uid" : "a198497c4cbaf336",
+      "parentUid" : "d2d9dfef6c4cc59b567fc46058ba1cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211599205,
+        "stop" : 1657211601039,
+        "duration" : 1834
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Successful get address @getAddressController @crudAddresses",
+      "uid" : "a654a4498d85840e",
+      "parentUid" : "d2d9dfef6c4cc59b567fc46058ba1cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211601040,
+        "stop" : 1657211602853,
+        "duration" : 1813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d2d9dfef6c4cc59b567fc46058ba1cf0"
+  } ]
+}

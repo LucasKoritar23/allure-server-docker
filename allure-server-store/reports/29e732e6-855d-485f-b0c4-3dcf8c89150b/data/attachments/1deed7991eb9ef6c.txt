@@ -1,0 +1,11 @@
+[2022-07-07T16:41:19.003Z] {
+  address: 'Kertzmann Inlet',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '70715-900',
+  number: '673',
+  city: 'Albuquerque',
+  state: 'South Dakota',
+  country: 'Denmark',
+  addressType: 'WORK'
+}

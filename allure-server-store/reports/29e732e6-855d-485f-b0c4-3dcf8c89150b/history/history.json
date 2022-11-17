@@ -1,0 +1,155 @@
+{
+  " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders Successful get address @getAddressController @crudAddresses" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "35d14243b1aac674",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html#testresult/35d14243b1aac674",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657212082841,
+        "stop" : 1657212084673,
+        "duration" : 1832
+      }
+    }, {
+      "uid" : "c461e0741f40db26",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html#testresult/c461e0741f40db26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211882486,
+        "stop" : 1657211884322,
+        "duration" : 1836
+      }
+    }, {
+      "uid" : "a654a4498d85840e",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html#testresult/a654a4498d85840e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211601040,
+        "stop" : 1657211602853,
+        "duration" : 1813
+      }
+    } ]
+  },
+  " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders successful put address @putAddressController @crudAddresses" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "4c0baf7691a9eebb",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html#testresult/4c0baf7691a9eebb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657212078093,
+        "stop" : 1657212081013,
+        "duration" : 2920
+      }
+    }, {
+      "uid" : "9118ab4aec2eea68",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html#testresult/9118ab4aec2eea68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211878710,
+        "stop" : 1657211880629,
+        "duration" : 1919
+      }
+    }, {
+      "uid" : "2ff970411ea58bd1",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html#testresult/2ff970411ea58bd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211597363,
+        "stop" : 1657211599204,
+        "duration" : 1841
+      }
+    } ]
+  },
+  " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders successful delete address @deleteAddressController @crudAddresses" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9d281caff8439087",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html#testresult/9d281caff8439087",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657212081014,
+        "stop" : 1657212082841,
+        "duration" : 1827
+      }
+    }, {
+      "uid" : "3c9691a44324fe14",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html#testresult/3c9691a44324fe14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211880630,
+        "stop" : 1657211882485,
+        "duration" : 1855
+      }
+    }, {
+      "uid" : "a198497c4cbaf336",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html#testresult/a198497c4cbaf336",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211599205,
+        "stop" : 1657211601039,
+        "duration" : 1834
+      }
+    } ]
+  },
+  " tests/api/smartPlaceOrder/addressController/specs/addresses.spec.js Addresses Controller @makeAddressesController @makeOrders Successful post address @postAddressController @crudAddresses" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "7cff28411930b5cc",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/29e732e6-855d-485f-b0c4-3dcf8c89150b/index.html#testresult/7cff28411930b5cc",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n\nExpected: 400\nReceived: 200",
+      "time" : {
+        "start" : 1657212075654,
+        "stop" : 1657212077651,
+        "duration" : 1997
+      }
+    }, {
+      "uid" : "29b0f209a57a6e8d",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/bded968c-cb65-4a13-ad8a-f321b00f4e65/index.html#testresult/29b0f209a57a6e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211876703,
+        "stop" : 1657211878709,
+        "duration" : 2006
+      }
+    }, {
+      "uid" : "9b7e5e160da6d6f2",
+      "reportUrl" : "http://0.0.0.0:8080/allure/reports/3328df55-c722-43f5-8c9f-71e992538bfc/index.html#testresult/9b7e5e160da6d6f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657211595321,
+        "stop" : 1657211597362,
+        "duration" : 2041
+      }
+    } ]
+  }
+}

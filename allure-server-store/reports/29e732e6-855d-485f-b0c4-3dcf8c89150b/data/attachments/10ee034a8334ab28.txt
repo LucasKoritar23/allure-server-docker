@@ -1,0 +1,17 @@
+[2022-07-07T16:41:17.638Z] {
+  id: 'f8d8e1eb-5a3b-4f0b-937a-8167cd2da56b',
+  address: 'Torphy Burg',
+  neighborhood: 'Guarulhos',
+  complement: 'Ao Lado da Qualidade',
+  zipCode: '07097-380',
+  number: '924',
+  city: 'Elkhart',
+  state: 'Utah',
+  country: 'Congo',
+  addressType: 'WORK',
+  _links: {
+    self: {
+      href: 'https://0.0.0.0:8443/addresses/f8d8e1eb-5a3b-4f0b-937a-8167cd2da56b'
+    }
+  }
+}
